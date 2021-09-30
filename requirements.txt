@@ -1,0 +1,5 @@
+sqlalchemy
+psycopg2
+pytest
+uvicorn
+starlette
