@@ -8,7 +8,7 @@
 ## PostgreSQL
 * relationele database
 * open source
-* www.postgresql.prg
+* www.postgresql.org
 ## Scrum via GitHub
 ## Geautomatiseerde testen (TDD)
 ## Heroku
